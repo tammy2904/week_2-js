@@ -10,3 +10,4 @@
 #### https://tammy2904.github.io/week_2-js/lesson09
 #### https://tammy2904.github.io/week_2-js/lesson10
 #### https://tammy2904.github.io/week_2-js/lesson11
+#### https://tammy2904.github.io/week_2-js/lesson12
