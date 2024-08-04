@@ -6,3 +6,5 @@
 #### https://tammy2904.github.io/week_2-js/lesson05
 #### https://tammy2904.github.io/week_2-js/lesson06
 #### https://tammy2904.github.io/week_2-js/lesson07
+#### https://tammy2904.github.io/week_2-js/lesson08
+#### https://tammy2904.github.io/week_2-js/lesson09
